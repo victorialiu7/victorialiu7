@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome! 👋
+
+I'm Victoria, a data scientist passionate about exploring data in all kinds of ways.
+
+## ✨ About Me
+
+- 🎓 B.S. in Statistics, Cornell University
+- 💻 Proficient in SQL and Python
+- 👩‍💻 Hands-on experience in building LLM pipelines and ML models
 
 <!--
 **victorialiu7/victorialiu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
